@@ -1,7 +1,7 @@
 # Spring2024
 Repository for the Spring 2024 Computational Social Science Workshop
 
-Time: 9:30 AM to 11:50 PM, Thursdays
+Time: 9:30 AM to 10:50 AM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
 Sign up to meet over lunch, dinner, or small group settings with our speakers [**here**](https://docs.google.com/spreadsheets/d/18tySJ3FJ8zT8Sh8JW6SixkFsZCOMSZOqru8kVEzVQwo/edit?usp=sharing)
